@@ -1,0 +1,22 @@
+.topbar {
+  background-color: rgb(168, 168, 168);
+  margin-left: 170px;
+  padding: 5px;
+  height: 50px;
+}
+
+.topbar-left {
+  float: left;
+  display: inline;
+}
+
+.add-note-button {
+  position: absolute;
+  left: 50%;
+  background-color: rgb(0, 166, 81);
+  border-radius: 50px;
+  font-size: 20px;
+  padding: 10px;
+  width: 150px;
+  border: none;
+}

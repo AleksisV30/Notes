@@ -1,0 +1,22 @@
+.sidebar {
+  background-color: rgb(241, 241, 241);
+  height: 100%;
+  width: 170px;
+  position: fixed;
+  z-index: 1;
+  text-align: center;
+}
+
+.sidebar-virsraksts {
+  font-size: 50px;
+  margin: 0px;
+}
+
+#sidebar-tags {
+  padding: 5px;
+}
+
+#sidebar-tags:hover {
+  background-color: rgb(184, 184, 184);
+  cursor: pointer;
+}
