@@ -2,10 +2,11 @@
   background-color: rgb(168, 168, 168);
   display: inline-block;
   border-radius: 30px;
+  padding: 10px;
+  margin: 10px;
 }
 
 .edit-img {
-  float: right;
   width: 20px;
   height: 20px;
 }
@@ -13,4 +14,17 @@
 .trash-img {
   width: 20px;
   height: 20px;
+
+}
+
+.container {
+  clear: both;
+  margin-left: 170px;
+}
+
+.note-tags {
+  background-color: rgb(121, 121, 121);
+  display: inline-block;
+  border-radius: 10px;
+  padding: 5px;
 }
